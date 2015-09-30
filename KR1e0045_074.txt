@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋分記
-#+DATE: 2015-09-23 09:39:42
-#+PROPERTY: JUAN 74
+#+DATE: 2015-08-24 22:14:13.037706
+#+PROPERTY: ID KR1e0045
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十四
 <pb:KR1e0045_WYG_074-1a>¶
 欽定四庫全書¶
 　春秋分記卷七十四　　　宋　程公說　撰¶
@@ -560,4 +562,3 @@
 　¶
 　¶
 　春秋分記卷七十四¶
-

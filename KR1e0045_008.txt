@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋分記
-#+DATE: 2015-09-23 09:39:42
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:14:11.668029
+#+PROPERTY: ID KR1e0045
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1e0045_WYG_008-1a>¶
 欽定四庫全書¶
 　春秋分記卷八　　　　宋　程公說　撰¶
@@ -130,4 +132,3 @@
 　¶
 　¶
 　春秋分記卷八¶
-

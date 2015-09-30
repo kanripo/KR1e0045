@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋分記
-#+DATE: 2015-09-23 09:39:42
-#+PROPERTY: JUAN 20
+#+DATE: 2015-08-24 22:14:11.870521
+#+PROPERTY: ID KR1e0045
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十
 <pb:KR1e0045_WYG_020-1a>¶
 欽定四庫全書¶
 　春秋分記卷二十　　　宋　程公說　&KR0103;¶
@@ -614,4 +616,3 @@
 　¶
 　¶
 　春秋分記卷二十¶
-
